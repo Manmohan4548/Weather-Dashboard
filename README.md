@@ -18,3 +18,5 @@ Live Weather Dashboard created on MS Power BI using a live Weather API
 ## Data Source
 -LIVE Date feeded from a Weather API available online  (https://www.weatherapi.com/)
 
+## ScreenShot
+![Weather-Dashboard](Screenshot (30).png)
